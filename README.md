@@ -1,14 +1,6 @@
-![Multiverse by HTML5UP](https://repository-images.githubusercontent.com/192228387/23ca0280-91f4-11e9-86e0-afcf90e961ad)
+# Overlord of CMing - 這是源自於霸社眾多噁男集結的心血
+C銘世界
 
-# Jekyll Multiverse Template
+先聲明一下，本篇僅供娛樂用，如果亂用裡面的照片鬧人，而抵觸相關法律、被8+9追殺等等......請自行負責，本人不負任何責任，請各位理性使用。如果有其它沒有收錄的、新的，私我。歡迎追蹤、卡位
 
-[![Build Status](https://travis-ci.com/joaomlneto/jekyll-multiverse-template.svg?branch=master)](https://travis-ci.com/joaomlneto/jekyll-multiverse-template)
-
-This is a Jekyll site template based on the [Multiverse](https://html5up.net/multiverse) template by [HTML5 UP](https://html5up.net)
-
-Example website: https://jekyll-multiverse-template.joao.neto.pt
-
-Each of the images displayed in the website is its own separate *post*:
-- Metadata (image title and caption) goes in the [`_images`](_images) folder
-- Actual images (thumbnails and fulls go into [`assets/images`](assets/images)).
-
+內含8主的經典、噁男騷擾、優質浪漫、又噁又浪漫
